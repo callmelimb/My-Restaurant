@@ -1,0 +1,6 @@
+{
+  "name": "L'Étoile Atelier",
+  "description": "Contemporary French Gastronomy & High-Performance Real-Time Digital Gastronomy Engine with live reservation orchestration and telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
